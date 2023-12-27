@@ -1,5 +1,6 @@
 ### Things I code with
 ### JAVA, Spring, React, React-native, JavaScript, Node.js
+### <a href = "https://receptive-pincushion-915.notion.site/Study-9144baf73f9a4da9a71f46d9f8a9c8ea?pvs=4">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lik8919)](https://solved.ac/lik8919)
 <!--
 **leejongsuu/leejongsuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
