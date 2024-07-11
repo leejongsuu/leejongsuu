@@ -33,7 +33,7 @@
 
 ### 기타 도구
 
-- **GitHub**, **GitKraken**, **Notion**, **Figma**, **erdCloud**, **draw.io**, **discord**
+- **GitHub**, **GitKraken**, **Notion**, **Figma**, **ErdCloud**, **Draw.io**, **Discord**
 
 </br>
 
