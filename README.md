@@ -18,9 +18,9 @@
 
 - **Java**, **JavaScript**, **C++**
 
-### 프레임워크
+### 프레임워크 및 라이브러리
 
-- **Spring Boot**, **Spring Security**, **React**, **React Native**
+- **Spring Boot**,**Spring Batch**, **Spring Security**, **Spring Data REST**, **React**, **React Native**, **Exrpess**, **Node.js**
 
 ### 인프라
 
@@ -33,7 +33,7 @@
 
 ### 기타 도구
 
-- **GitHub**, **Notion**, **Figma**, **erdCloud**, **draw.io**
+- **GitHub**, **GitKraken**, **Notion**, **Figma**, **erdCloud**, **draw.io**, **discord**
 
 </br>
 
