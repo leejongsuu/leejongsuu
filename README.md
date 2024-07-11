@@ -20,7 +20,7 @@
 
 ### 프레임워크 및 라이브러리
 
-- **Spring Boot**,**Spring Batch**, **Spring Security**, **Spring Data REST**, **React**, **React Native**, **Exrpess**, **Node.js**
+- **Spring Boot**, **Spring Batch**, **Spring Security**, **Spring Data REST**, **React**, **React Native**, **Exrpess**, **Node.js**
 
 ### 인프라
 
