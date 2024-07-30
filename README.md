@@ -20,7 +20,7 @@
 
 ### 프레임워크 및 라이브러리
 
-- **Spring Boot**, **Spring Batch**, **Spring Security**, **Spring Data REST**, **React**, **React Native**, **Exrpess**, **Node.js**
+- **Spring Boot**, **Spring Batch**, **Spring Security**, **Spring Data REST**, **React**, **React Native**, **Express**, **Node.js**
 
 ### 인프라
 
@@ -52,7 +52,7 @@
 | --- | --- | --- | --- |
 | 2023년 03월 06일 ~ 2023년 08월 06일 | 우로테스트 | 교육용 앱 풀스택 | 인턴 |
 | 2023년 10월 04일 ~ 2023년 12월04일 | 우로테스트 | 상담 센터 외주 백엔드 개발 | 프리랜서 |
-| 2024년 6월 3일 ~ 2024년 8월 23일 (진행 중) | 모바일 앱 개발 협동조합 | PM, 백엔드 개발 | 인턴 |
+| 2024년 6월 3일 ~ 2024년 8월 23일 (진행 중) | 모바일 앱 개발 협동조합 | 백엔드 개발 | 인턴 |
 
 </br>
 
